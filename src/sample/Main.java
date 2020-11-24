@@ -44,7 +44,7 @@ public class Main   {
                              catch (Exception e)
                              {
                                  /*Check the input type*/
-                                 Flage=true; System.out.println("press enter");
+                                 Flage=true; System.out.println(" ");
                                  Inputc = Scan.next();
                              }
                              /*Check the input length*/
